@@ -1,0 +1,38 @@
+Implement Stack from Scratch	Link	Link
+Implement Queue from Scratch	Link	Link
+Implement 2 stack in an array	Link	Link
+Find the middle element of a stack	Link	Link
+Implement “N” stacks in an Array	Link	Link
+Check the expression has valid or Balanced parenthesis or not.	Link	Link
+Reverse a String using Stack	Link	Link
+Design a Stack that supports getMin() in O(1) time and O(1) extra space.	Link	Link
+Find the next Greater element	Link	Link
+The celebrity Problem	Link	Link
+Arithmetic Expression evaluation	Link	Link
+Evaluation of Postfix expression	Link	Link
+Implement a method to insert an element at its bottom without using any other data structure.	Link	Link
+Reverse a stack using recursion	Link	Link
+Sort a Stack using recursion	Link	Link
+Merge Overlapping Intervals	Link	Link
+Largest rectangular Area in Histogram	Link	Link
+Length of the Longest Valid Substring	Link	Link
+Expression contains redundant bracket or not	Link	Link
+Implement Stack using Queue	Link	Link
+Implement Stack using Deque	Link	Link
+Stack Permutations (Check if an array is stack permutation of other)	Link	Link
+Implement Queue using Stack	Link	Link
+Implement “n” queue in an array	Link	Link
+Implement a Circular queue	Link	Link
+LRU Cache Implementation	Link	Link
+Reverse a Queue using recursion	Link	Link
+Reverse the first “K” elements of a queue	Link	Link
+Interleave the first half of the queue with second half	Link	Link
+Find the first circular tour that visits all Petrol Pumps	Link	Link
+Minimum time required to rot all oranges	Link	Link
+Distance of nearest cell having 1 in a binary matrix	Link	Link
+First negative integer in every window of size “k”	Link	Link
+Check if all levels of two trees are anagrams or not.	Link	Link
+Sum of minimum and maximum elements of all subarrays of size “k”.	Link	Link
+Minimum sum of squares of character counts in a given string after removing “k” characters.	Link	Link
+Queue based approach or first non-repeating character in a stream.	Link	Link
+Next Smaller Element
